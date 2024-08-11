@@ -9,3 +9,7 @@ Proje şu kütüphaneleri kullanır:
 - `scikit-learn`: Makine öğrenimi modelini oluşturmak için
 - `joblib`: Modeli kaydetmek ve yüklemek için
 - `tkinter`: Grafiksel kullanıcı arayüzü oluşturmak için
+
+## Dataset
+
+- https://www.kaggle.com/datasets/alpersah11/turkish-mail-spam-dataset
